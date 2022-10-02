@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1@deployment": "file:///Users/shubhamphansekar/Desktop/Kubernetes/K8S-node-express-mongodb/mongo.yaml"
+  }
+}
